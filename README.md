@@ -6,8 +6,10 @@ Weather App Live Demo [link here](https://github.com/sboni2/Bharat_Internship_We
 I used API keys from this [link](https://openweathermap.org/)
 
 Github Profile [link](https://github.com/sboni2/Bharat_Internship_Weather_API.git)
- 
-![app](assets/weatherApp2.png)
+
+![app](/weatherApp_1.png) 
+![app](/weatherApp2.png)
+
 
 # Key Features:
 Responsive Design: The app is built with a mobile-first approach, ensuring a seamless experience across devices.
