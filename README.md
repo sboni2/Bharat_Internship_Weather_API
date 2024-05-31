@@ -32,7 +32,7 @@ Bootstrap
 JavaScript
 
 # Credits:
-Developed by Sanket Santoki
+Developed by Surendra Boni
 Internship at BharatIntern
 
 Thank you for checking out our Weather App project. Stay informed, stay connected!
